@@ -18,7 +18,7 @@ Impressum
 
 
 
-Technische Realisierung u. Hosting
+**Technische Realisierung u. Hosting (Webmaster)**
 
 | **Christian Rhomberg**
 | Gechelbachgasse 16a
