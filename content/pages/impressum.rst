@@ -14,3 +14,13 @@ Impressum
 | Gechelbachgasse 14
 | 6850 Dornbirn
 | Tel.: +43 664 808923338
+
+
+
+
+Technische Realisierung u. Hosting
+| **Christian Rhomberg**
+| Gechelbachgasse 16a
+| 6850 Dornbirn
+| christian@rhomberg.org
+
