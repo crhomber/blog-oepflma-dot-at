@@ -17,11 +17,3 @@ Impressum
 
 
 
-
-**Technische Realisierung u. Hosting (Webmaster)**
-
-| **Christian Rhomberg**
-| Gechelbachgasse 16a
-| 6850 Dornbirn
-| christian@rhomberg.org
-
