@@ -45,6 +45,9 @@
       <h2><a href="{{ SITEURL }}">{{ AUTHOR }}</a></h2>
       <p>{{ TAGLINE }}</p>
       <ul>
+		Test
+      </ul>
+      <ul>
         {% for title, link in MENUITEMS %}
         <li><a href="{{ link }}">{{ title }}</a></li>
         {% endfor %}
@@ -57,9 +60,6 @@
         {% for name, link in SOCIAL %}
         <li><a href="{{ link }}" target="_blank">{{ name }}</a></li>
         {% endfor %}
-      </ul>
-      <ul>
-		Test
       </ul>
     </div>
   </aside>
