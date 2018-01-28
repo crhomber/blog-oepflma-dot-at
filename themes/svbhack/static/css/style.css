@@ -7,7 +7,7 @@ body {
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  color: #4d4d4d;
+  color: #ffffff;
   font-family: 'PT Sans', sans-serif;
   font-size: 18px;
 }
@@ -51,7 +51,7 @@ aside div#user_meta ul li a {
   border-radius: 15px;
   -moz-border-radius: 15px;
   -webkit-border-radius: 15px;
-  color: #000;
+  color: #ffffff;
 }
 main header {
   padding: 40px;
