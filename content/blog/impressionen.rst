@@ -4,6 +4,7 @@ Impressionen
 :slug: impressionen
 :tags: Fotos, Impressionen
 :keywords: Vorarlberg, Obstbau
+:status: draft
 
 
 
