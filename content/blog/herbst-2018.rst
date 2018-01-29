@@ -4,7 +4,6 @@ Dorabirar Öpflma
 :slug: oepflma
 :tags:
 
-Der Ländle-Apfel zum Anbeißen!
 
 .. image:: images/laendle-apfel.png
         :alt: Laendle Apfel Logo
