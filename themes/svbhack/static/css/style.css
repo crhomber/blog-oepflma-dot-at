@@ -147,7 +147,7 @@ main div#ending_message {
   }
   aside div#user_meta {
     max-width: 192px;
-    text-align: right;
+    text-align: center;
   }
   aside div#user_meta ul li {
     display: block;
