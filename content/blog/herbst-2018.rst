@@ -5,6 +5,8 @@ Dorabirar Öpflma
 :tags:
 
 
+Jetzt immer samstags am Dornbirner Wochenmarkt (neben VERO MODA)!
+
 .. image:: images/laendle-apfel.png
         :alt: Laendle Apfel Logo
 
