@@ -5,7 +5,12 @@ Dorabirar Öpflma
 :tags:
 
 
-Jetzt immer samstags am Dornbirner Wochenmarkt (neben VERO MODA)!
+Vielen Dank für euer reges Interesse,
+die Ernte ist für heuer abgeschlossen und alle Äpfel sind verkauft.
+
+Wir sind gerne im August 2019 wieder für euch da.
+
+Euer Öpflma
 
 .. image:: images/laendle-apfel.png
         :alt: Laendle Apfel Logo
